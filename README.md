@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/mattavania" target="blank"><img src="https://img.shields.io/twitter/follow/mattavania?logo=twitter&style=for-the-badge" alt="mattavania" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/AlphaCodes](https://linktr.ee/AlphaCodes)
+- 👨‍💻 All of my Links are available at [https://linktr.ee/AlphaCodes](https://linktr.ee/AlphaCodes)
 
-- 📝 I regularly write articles on [https://tealfeed.com/alphacodes](https://tealfeed.com/alphacodes)
+- 📝 I write articles on [https://tealfeed.com/alphacodes](https://tealfeed.com/alphacodes)
 
 - 📫 How to reach me **contactmukul95@gmail.com**
 
-- ⚡ Fun fact **Sharing the mindset and content so you work hard to grow stronger than your past self**
+- ⚡ Fun fact         **Sharing the mindset and content so you work hard to grow stronger than your past self**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
